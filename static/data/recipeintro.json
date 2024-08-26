@@ -1,0 +1,52 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "title": "Kimchi",
+            "image": "http://127.0.0.1:8000/media/kimchi.jpeg",
+            "description": "Kimchi is a quintessential Korean side dish made from fermented vegetables, most commonly Napa cabbage. The fermentation process gives kimchi its distinctive tangy, spicy flavor, which is further enhanced by a blend of garlic, ginger, and Korean chili flakes. Often used as a condiment or side dish, kimchi is also enjoyed for its health benefits, including probiotic content. It’s a staple in Korean cuisine and can be used in a variety of dishes or eaten on its own."
+        },
+        {
+            "id": 2,
+            "title": "Udon Noodles",
+            "image": "http://127.0.0.1:8000/media/udon.jpeg",
+            "description": "Udon noodles are thick, chewy Japanese wheat noodles renowned for their satisfying texture. Typically served in a savory broth that is often made from dashi, soy sauce, and mirin, udon noodles can be enjoyed hot or cold, depending on the dish. They are often paired with a variety of vegetables such as mushrooms and bell peppers, as well as proteins like tofu or meat. Garnished with green onions, sesame seeds, and sometimes nori, udon noodles offer a comforting and versatile meal option."
+        },
+        {
+            "id": 3,
+            "title": "Pad Thai",
+            "image": "http://127.0.0.1:8000/media/padthai.jpeg",
+            "description": "Pad Thai is a beloved Thai street food characterized by its stir-fried rice noodles. The dish features a harmonious blend of ingredients including eggs, tofu or shrimp, and a distinctive sauce made from tamarind paste, fish sauce, and sugar. Pad Thai is known for its balance of sweet, sour, and savory flavors, and is often garnished with crushed peanuts, lime wedges, and fresh herbs. It’s a popular choice for those seeking a flavorful and satisfying meal with a touch of Thai flair."
+        },
+        {
+            "id": 4,
+            "title": "Bánh Mì",
+            "image": "http://127.0.0.1:8000/media/banmi.jpeg",
+            "description": "Bánh Mì is a Vietnamese sandwich that combines the light, crusty texture of a French baguette with a variety of savory and fresh fillings. Traditional ingredients include pork, pâté, pickled daikon and carrots, and fresh herbs like cilantro. This sandwich is celebrated for its balance of crispy bread, tender meats, and crunchy vegetables, along with a blend of spicy, tangy, and umami flavors. Bánh Mì offers a delicious fusion of French and Vietnamese culinary influences."
+        },
+        {
+            "id": 5,
+            "title": "Orange Chicken",
+            "image": "http://127.0.0.1:8000/media/orangechicken.jpeg",
+            "description": "Orange Chicken is a popular Chinese-American dish featuring crispy pieces of chicken coated in a glossy, sweet, and tangy orange sauce. The sauce, made from orange juice, sugar, and vinegar, gives the dish its signature flavor, while the crispy chicken adds a satisfying crunch. Often served over a bed of rice and garnished with green onions and sesame seeds, Orange Chicken is a favorite for those who enjoy a blend of sweet and savory flavors with a touch of citrus."
+        },
+        {
+            "id": 6,
+            "title": "Fried Rice",
+            "image": "http://127.0.0.1:8000/media/friedrice.jpeg",
+            "description": "Fried Rice is a versatile and convenient dish made by stir-frying pre-cooked rice with a variety of vegetables, eggs, and often some type of protein such as chicken, shrimp, or tofu. Seasoned with soy sauce and other seasonings, Fried Rice is an excellent way to use up leftover rice and create a quick and flavorful meal. The dish is highly customizable, allowing for the inclusion of different ingredients based on personal preference or what’s on hand."
+        },
+        {
+            "id": 7,
+            "title": "Bibimbap",
+            "image": "http://127.0.0.1:8000/media/bibimbap.jpeg",
+            "description": "Bibimbap is a classic Korean rice dish that features a vibrant assortment of vegetables, meat (usually beef), and a fried egg, all served over a bed of rice. The dish is topped with gochujang, a Korean chili paste, which adds a spicy and savory kick. Bibimbap is known for its colorful presentation and the combination of various textures and flavors. Before eating, the ingredients are mixed together to blend the flavors, making it a delicious and satisfying meal."
+        },
+        {
+            "id": 8,
+            "title": "Shoyu Ramen",
+            "image": "http://127.0.0.1:8000/media/ramen.jpeg",
+            "description": "Shoyu Ramen is a flavorful Japanese noodle soup characterized by its soy sauce-based broth. This comforting dish typically includes ramen noodles, slices of tender pork, bamboo shoots, and mushrooms, all simmered together to create a rich and savory broth. Topped with a soft-boiled egg, green onions, and nori (seaweed), Shoyu Ramen is a beloved staple in Japanese cuisine. It offers a satisfying combination of umami flavors and is enjoyed both as a hearty meal and a comforting bowl of soup."
+        }
+    ]
+}

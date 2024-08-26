@@ -1,0 +1,197 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "title": "Kimchi",
+            "ingredients": [
+                "1 medium Napa cabbage",
+                "1/4 cup sea salt",
+                "1 tablespoon sugar",
+                "4 cloves garlic, minced",
+                "1 tablespoon ginger, minced",
+                "3 tablespoons gochugaru (Korean red chili flakes)",
+                "3 green onions, chopped",
+                "2 tablespoons fish sauce (or soy sauce for a vegetarian option)",
+                "1 small carrot, julienned (optional)"
+            ],
+            "steps": [
+                "Cut the Napa cabbage into quarters and remove the core. Slice the cabbage into bite-sized pieces.",
+                "In a large bowl, toss the cabbage with sea salt, ensuring it's evenly coated. Let it sit for 1-2 hours to soften.",
+                "After the cabbage has softened, rinse it thoroughly under cold water to remove excess salt. Drain well and gently squeeze out any excess water.",
+                "In a separate bowl, mix together minced garlic, minced ginger, sugar, gochugaru, and fish sauce (or soy sauce). Adjust the spice level to your preference by adding more or less gochugaru.",
+                "Add the chopped green onions and optional julienned carrot to the cabbage. Toss with the spice paste, making sure the cabbage and vegetables are well coated.",
+                "Pack the kimchi mixture tightly into a clean jar, leaving some space at the top. Seal the jar and let it ferment at room temperature for 1-2 days.",
+                "Refrigerate the kimchi. It will continue to ferment slowly in the fridge and develop more flavor over time."
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Udon Noodles",
+            "ingredients": [
+                "Udon noodles",
+                "Oil for frying",
+                "1 onion, sliced",
+                "1 bell pepper, sliced",
+                "Additional vegetables (optional)",
+                "Soy sauce",
+                "Mirin or sake (optional)",
+                "Cooked protein (chicken, beef, or tofu) (optional)",
+                "Green onions, chopped (for garnish)",
+                "Sesame seeds (for garnish)"
+            ],
+            "steps": [
+                "Cook the udon noodles according to package instructions. Drain and set aside.",
+                "In a pan, heat some oil over medium heat. Add sliced onions, bell peppers, and any other vegetables of your choice. Stir-fry until tender.",
+                "Add the cooked udon noodles to the pan.",
+                "Pour in soy sauce and a splash of mirin or sake. Toss everything together until well combined and heated through.",
+                "Optional: Add cooked protein such as chicken, beef, or tofu, and stir to combine.",
+                "Garnish with chopped green onions and sesame seeds. Serve hot."
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Pad Thai",
+            "ingredients": [
+                "Rice noodles",
+                "Oil for cooking",
+                "2 cloves garlic, minced",
+                "Protein (tofu or shrimp)",
+                "2 eggs",
+                "Tamarind paste",
+                "Fish sauce",
+                "Sugar",
+                "Bean sprouts",
+                "Chopped green onions",
+                "Lime wedges",
+                "Crushed peanuts"
+            ],
+            "steps": [
+                "Soak rice noodles in hot water according to package instructions until softened. Drain and set aside.",
+                "In a wok or large skillet, heat oil over medium-high heat. Add minced garlic and diced tofu or shrimp, and cook until the protein is cooked through.",
+                "Push the protein to one side of the pan and crack an egg into the empty space. Scramble and cook until just set.",
+                "Add the soaked noodles, tamarind paste, fish sauce, and a bit of sugar. Stir everything together until the noodles are well coated and heated through.",
+                "Toss in bean sprouts and chopped green onions.",
+                "Serve with lime wedges and crushed peanuts on the side."
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Bánh Mì",
+            "ingredients": [
+                "Baguettes",
+                "Mayonnaise",
+                "Pâté (optional)",
+                "Cooked pork",
+                "Pickled daikon and carrots",
+                "Cucumber slices",
+                "Fresh cilantro",
+                "Sliced jalapeños"
+            ],
+            "steps": [
+                "Preheat your oven to 350°F (175°C). Slice baguettes lengthwise, but do not cut all the way through.",
+                "Spread mayonnaise and pâté (if using) on the inside of each baguette.",
+                "Layer in cooked pork, pickled daikon and carrots, and fresh cucumber slices.",
+                "Add fresh cilantro and sliced jalapeños to taste.",
+                "Close the baguettes, slice into portions, and serve immediately or wrap for later."
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Orange Chicken",
+            "ingredients": [
+                "Chicken breasts, cut into bite-sized pieces",
+                "Cornstarch",
+                "Oil for frying",
+                "4 cloves garlic, minced",
+                "1 tablespoon ginger, minced",
+                "1 cup orange juice",
+                "2 tablespoons soy sauce",
+                "1 tablespoon sugar",
+                "1 tablespoon vinegar",
+                "Sliced green onions (for garnish)",
+                "Sesame seeds (for garnish)"
+            ],
+            "steps": [
+                "Cut chicken breasts into bite-sized pieces and toss with cornstarch.",
+                "Heat oil in a pan over medium-high heat. Fry the chicken pieces in batches until golden brown and cooked through. Remove and drain on paper towels.",
+                "In the same pan, sauté garlic and ginger until fragrant.",
+                "Add orange juice, soy sauce, sugar, and a splash of vinegar. Simmer until the sauce thickens.",
+                "Return the chicken to the pan and toss to coat with the orange sauce.",
+                "Garnish with sliced green onions and sesame seeds.",
+                "Serve with rice."
+            ]
+        },
+        {
+            "id": 6,
+            "title": "Fried Rice",
+            "ingredients": [
+                "Rice",
+                "Oil for cooking",
+                "1 onion, diced",
+                "1 carrot, diced",
+                "1 cup peas",
+                "2 eggs",
+                "Soy sauce",
+                "Cooked protein (chicken, shrimp, or tofu) (optional)",
+                "Chopped green onions (for garnish)"
+            ],
+            "steps": [
+                "Cook rice according to package instructions and let it cool. Day-old rice works best for fried rice.",
+                "Heat oil in a large skillet or wok over medium-high heat. Add diced onions, carrots, and peas. Stir-fry until vegetables are tender.",
+                "Push the vegetables to one side of the pan and scramble a couple of eggs in the empty space.",
+                "Add the cold rice to the pan, breaking up any clumps.",
+                "Stir in soy sauce and optional protein (chicken, shrimp, or tofu).",
+                "Continue to stir-fry until everything is well combined and heated through.",
+                "Garnish with chopped green onions."
+            ]
+        },
+        {
+            "id": 7,
+            "title": "Bibimbap",
+            "ingredients": [
+                "Rice",
+                "Assorted vegetables (e.g., spinach, carrots, zucchini, mushrooms)",
+                "Sesame oil",
+                "Soy sauce",
+                "Garlic",
+                "Eggs",
+                "Gochujang (Korean red chili paste)"
+            ],
+            "steps": [
+                "Cook rice according to package instructions.",
+                "Prepare and cook assorted vegetables (e.g., spinach, carrots, zucchini, mushrooms) and set aside.",
+                "For each vegetable, season with a bit of sesame oil, soy sauce, and garlic, then sauté or blanch as needed.",
+                "Fry an egg sunny side up or to your preference.",
+                "In a bowl, place a serving of rice and arrange the cooked vegetables and egg on top in separate sections.",
+                "Add a dollop of gochujang (Korean red chili paste).",
+                "Mix everything together before eating."
+            ]
+        },
+        {
+            "id": 8,
+            "title": "Shoyu Ramen",
+            "ingredients": [
+                "Ramen noodles",
+                "Chicken or pork broth",
+                "Soy sauce",
+                "Mirin",
+                "Sugar",
+                "Sliced mushrooms",
+                "Bamboo shoots",
+                "Cooked protein (pork or chicken)",
+                "Green onions (for garnish)",
+                "Nori (seaweed, for garnish)",
+                "Soft-boiled egg (for garnish)"
+            ],
+            "steps": [
+                "Prepare the ramen noodles according to package instructions. Drain and set aside.",
+                "In a pot, combine chicken or pork broth with soy sauce, mirin, and a bit of sugar. Bring to a simmer.",
+                "Add sliced mushrooms, bamboo shoots, and cooked protein (such as pork or chicken) to the broth. Simmer until the vegetables are tender.",
+                "Divide the cooked noodles between bowls.",
+                "Ladle the hot broth and toppings over the noodles.",
+                "Garnish with sliced green onions, nori (seaweed), and a soft-boiled egg.",
+                "Serve hot."
+            ]
+        }
+    ]
+}
